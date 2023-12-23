@@ -1,0 +1,29 @@
+- Admin
+username : admin
+password : admin@lemon753
+email : admin@little.lemon
+-----------------------------------------------
+- Manager
+username : james
+password : james@lemon753
+token : d870a850dea0f6310fabe4c824a7a57b6d63a7b4
+
+username : sarah
+password : sarah@lemon753
+-----------------------------------------------
+- Delivery crew
+username : john
+password : john@lemon753
+token : 01b68d23169969497a780b7ff18189d613ddd97d
+
+username : samantha
+password : samantha@lemon753
+-----------------------------------------------
+- Customer
+username : richard
+password : richard@lemon753
+token : 1f78dbd559cd99e0a78a46afca6079321e5b8037
+
+username : emma
+password : emma@lemon753
+token : 13b9c7ac3bfcad1a3a5dee39a9ac66dc7686b94c
